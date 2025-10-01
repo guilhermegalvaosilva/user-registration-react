@@ -4,16 +4,22 @@ import Trash from "../../assets/trash-icon-symbol-sign-vector.jpg";
 function Home() {
   const users = [
     {
-      id: "12315gui",
-      name: "Guilherme",
-      age: 24,
-      email: "guilherme.com",
+      id: "Barcelona",
+      name: "Galvao",
+      age: 30,
+      email: "Galvão@gmail.com",
     },
     {
-      id: "12315guifrfr",
-      name: "Guilhermevfvfv",
+      id: "Lisabona",
+      name: "Guilheme",
       age: 25,
-      email: "guilherme.silva",
+      email: "Guilherme@gmail.com",
+    },
+    {
+      id: "Londres",
+      name: "Simplicio",
+      age: 20,
+      email: "Simplicio@gmail.com",
     },
   ];
 
